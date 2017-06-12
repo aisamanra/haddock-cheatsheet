@@ -2,7 +2,7 @@
 
 # Haddock Markup Quick Reference
 
-This page is a single-page quick reference for the markup used in GHC's [Haddock](https://www.haskell.org/haddock/) documentation format. It doesn't list all the details of the format, just the basic markup, so for the vagaries and edge-cases of the syntax, it would be helpful to consult the [Haddock user guide](https://www.haskell.org/haddock/doc/html/index.html).
+This page is a single-page quick reference for the markup used in GHC's [Haddock](https://www.haskell.org/haddock/) documentation format. It doesn't list all the details of the format, just the basic markup, so for the vagaries and edge-cases of the syntax, it would be helpful to consult the [Haddock user guide](http://haskell-haddock.readthedocs.io/en/latest/index.html).
 
 ## License
 
