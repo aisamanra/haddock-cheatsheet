@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.99607843"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1689792"
-     inkscape:cx="151.88814"
-     inkscape:cy="659.27954"
+     inkscape:cx="338.82394"
+     inkscape:cy="776.62735"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,10 +38,10 @@
      inkscape:snap-intersection-paths="true"
      units="in"
      scale-x="20"
-     inkscape:window-width="2302"
-     inkscape:window-height="2158"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-width="1918"
+     inkscape:window-height="1036"
+     inkscape:window-x="0"
+     inkscape:window-y="42"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -264,7 +264,7 @@
          y="207.61607"
          x="9.3546734"
          sodipodi:role="line"
-         id="tspan4745">  -- Monospaced text: @ampersands@.</tspan></text>
+         id="tspan4745">  -- Monospaced text: @at signs@.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:23.44835281px;line-height:0px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24425368px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -592,7 +592,7 @@
          x="163.25969"
          y="21.504742"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.94444454px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#666666;stroke-width:0.26458332px"
-         id="tspan5579">Haddock Markup Cheat-sheet, Version 1.0</tspan><tspan
+         id="tspan5579">Haddock Markup Cheat-sheet, Version 1.1</tspan><tspan
          sodipodi:role="line"
          x="163.25969"
          y="24.28252"
