@@ -1,6 +1,8 @@
-**Important note**: this cheatsheet has been migrated into the [official Haddock repo](https://github.com/haskell/haddock/tree/ghc-8.10/doc/cheatsheet) and can also be viewed [in the Haddocks for Haddocks](https://hackage.haskell.org/package/haddock). Please track the version there for any changes or updates.
-
 ![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+
+# Important note
+
+This cheatsheet has been migrated into the [official Haddock repo](https://github.com/haskell/haddock/tree/ghc-8.10/doc/cheatsheet) and can also be viewed [in the Haddocks for Haddocks](https://hackage.haskell.org/package/haddock). Please track the version there for any changes or updates.
 
 # Haddock Markup Quick Reference
 
